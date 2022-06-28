@@ -1,6 +1,6 @@
 Hello world!
 
 12345
-
+anther line from user1
 new line
 Change file1 User1
