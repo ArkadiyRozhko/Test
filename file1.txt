@@ -1,6 +1,5 @@
 Hello world!
 
 12345
-
+Line from user 2
 new line
-Change file1 User1
